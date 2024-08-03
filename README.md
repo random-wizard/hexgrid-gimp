@@ -11,3 +11,9 @@ Find where gimp has setup the scripts and brushes folder. This varies with opera
 Start gimp. A new menu item named "New Hex Map" should appear under the "File" menu. Specify the size of the map in the Columns and Rows boxes. Hit OK and the script-fu will generate a new image with a hex grid and layers to help with building up a hex map.
 
 Make sure "Snap to Grid" is checked under the "View" menu. This will help with getting the hex paint brush to align correctly the pregenerated grid.
+
+## examples
+
+An example gimp file is included in the examples folder. Open example-1.xcf to examine how the paint brushes, layers, path tool, text tool, and other gimp features can be used to make a fantasy map.
+
+![hexgrid-example-1](https://raw.githubusercontent.com/random-wizard/hexgrid-gimp/main/examples/example-1.png)
