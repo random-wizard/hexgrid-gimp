@@ -9,3 +9,5 @@ Find where gimp has setup the scripts and brushes folder. This varies with opera
 ## using hexgrid
 
 Start gimp. A new menu item named "New Hex Map" should appear under the "File" menu. Specify the size of the map in the Columns and Rows boxes. Hit OK and the script-fu will generate a new image with a hex grid and layers to help with building up a hex map.
+
+Make sure "Snap to Grid" is checked under the "View" menu. This will help with getting the hex paint brush to align correctly the pregenerated grid.
